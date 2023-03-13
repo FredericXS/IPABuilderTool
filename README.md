@@ -2,8 +2,8 @@
 Make .ipa files easily.
 
 <div align="center">
-  <img src="Screenshots/FirstPreview.png" width="450"/>
-  <img src="Screenshots/SecondPreview.png" width="450"/>
+  <img src="Screenshots/FirstPreview.png" width="400"/>
+  <img src="Screenshots/SecondPreview.png" width="400"/>
 </div>
 
 ## How to use
